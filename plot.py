@@ -5,7 +5,8 @@ import sys
 
 
 #OFFSET_SCORES_DIR = 'gmm_offset_scores/'
-OFFSET_SCORES_DIR = 'offset_scores/'
+#OFFSET_SCORES_DIR = 'offset_scores/'
+OFFSET_SCORES_DIR = './'
 #offset_scores_file = '1610314828.3163745'
 #offset_scores_file = '1610316439.2431586'
 
